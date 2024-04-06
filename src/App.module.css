@@ -1,0 +1,28 @@
+.App {
+    text-align: left;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+
+  .name{
+    color: rgb(142, 142, 248);
+  }
+
+  .Apph {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    color: white;
+  }
+  
+ 
+  
+  
+  
